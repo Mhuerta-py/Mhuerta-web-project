@@ -7,7 +7,7 @@ The website consists of different pages that have the ability to be navigated fr
 ## Live Site Link
 
 GitHub Pages URL:
-(Add your GitHub Pages link here)
+https://mhuerta-py.github.io/Mhuerta-web-project/final/final.html
 
 ## Features
 
